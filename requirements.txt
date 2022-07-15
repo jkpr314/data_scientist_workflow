@@ -1,1 +1,6 @@
 dvc
+pandas
+openpyxl
+notebook
+xlrd
+fastparquet
