@@ -1,0 +1,4 @@
+outs:
+- md5: 89641eff0c8ebe72b2c03c5b60c8461b
+  size: 165513
+  path: country_year_gdp.parquet
