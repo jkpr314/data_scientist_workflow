@@ -1,3 +1,5 @@
 .idea
 .ipynb_checkpoints
 *.ipynb
+/experiments/experiment_1/mlruns
+mlruns

@@ -4,3 +4,6 @@ openpyxl
 notebook
 xlrd
 fastparquet
+mlflow
+scikit-learn
+matplotlib
